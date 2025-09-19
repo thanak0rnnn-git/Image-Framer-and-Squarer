@@ -9,6 +9,7 @@ Supports **JPG / PNG / WebP** and customizable **workers** for performance tunin
 * เลือกจำนวน Workers (เธรด) ได้ เพื่อปรับความเร็วตามสเปกเครื่อง
 * ถ้าไม่มี Python → โหลด .exe (Windows) หรือ .app (macOS) ใน Release ไปเปิดใช้ได้เลย 🎉
 * ถ้ามี Python, อยากโมเพิ่ม → pip install -r requirements.txt แล้วรัน python main.py
+* อยาก Build ? For Developer ด้านล่างเลยจ้า
 ---
 ## 💻 Usage (without Python)
 - Download the latest **`.exe` (Windows)** or **`.app` (macOS)** from the **Releases** section.
